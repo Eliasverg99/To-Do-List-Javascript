@@ -1,0 +1,33 @@
+*{
+    font-family: "lato", sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(54, 74, 255);
+    color: #333333;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+h2{
+    font-weight: 800;
+}
+button{
+    border: 0px;
+}
+button:hover{
+    color: blue;
+    background: black;
+}
+.container {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+#top{
+    margin-top: 20px;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
